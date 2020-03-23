@@ -1,0 +1,39 @@
+.disabled {
+    opacity: 0.6;
+}
+
+.delete-btn {
+    pointer-events: initial;
+}
+
+.edit-btn, .complete-btn {
+    opacity: inherit;
+}
+
+
+.btn-category {
+    border-color: #6c757d;
+}
+
+.btn-category:hover {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+
+.active-category {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.active-category:hover {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.col-8 {
+    padding: 0;
+}
